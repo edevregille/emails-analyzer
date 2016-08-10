@@ -15,6 +15,11 @@ It provides you with a flow to:
 
 LIMITATIONS: the incoming mail box need to be Gmail because of the classification.
 
+![node-red flow](/public/images/node-flow.png?raw=true "Flow Node-Red")
+
+![Reporting](/public/images/reporting.png?raw=true "Reporting UI")
+
+
 ### How does this work?
 
 When you click the button 'Deploy to Bluemix', you are taken to Bluemix where you get to pick a name
@@ -37,3 +42,4 @@ Classification node uses IMAP Gmail extension to move mails to the right folder.
 
 **Output email**
 This node is just to send the email to another mailbox if the email needs to be answered by the center. 
+
