@@ -32,6 +32,7 @@ It will automatically create an instance of the Cloudant service and Watson NLC 
 
 **Client Input node**
 You need to set the Input Client node Gmail by entering credentials of the gmail box to listen to. You also need to create on your gmail box two labels: one for the center and one for the agent.
+Note that email password needs to be 8 characters minimum with letters, numbers and special characters.
 
 **NLC node**
 You have to create and train a NLC classifier by uploading the nlc-training-bank.csv file on the Watson NLC service.
@@ -42,4 +43,7 @@ Classification node uses IMAP Gmail extension to move mails to the right folder.
 
 **Output email**
 This node is just to send the email to another mailbox if the email needs to be answered by the center. 
+
+### Test it and train Watson so it gets better!
+You can use the sample examples of emails provided in the examples of emails.txt.
 
