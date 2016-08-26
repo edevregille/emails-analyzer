@@ -1,0 +1,73 @@
+nouveau chequier,nouveauCB_chequier
+faire un virement,virement
+ajouter un beneficiaire,virement
+j'ai change d'adresse,updateProfile
+est ce qu'on peut se rencontrer?,rendez-vous
+garantie bancaire,conseiller
+connaitre mon solde,releve_compte
+activer un beneficiaire,virement
+envoyer de l'argent,virement
+demande pour une multirisque habitation,conseiller
+nouvelle carte bancaire,nouveauCB_chequier
+changement d'adresse,updateProfile
+relever le seuil,deplafonnementCB
+quelle est votre adresse,rendez-vous
+deplafonnement,deplafonnementCB
+RIB,virement
+ou est ce que je peux trouver mon RIB,virement
+envoyer mon dernier releve,releve_compte
+quelles sont vos offres,conseiller
+quels sont les taux d'interet,conseiller
+quel est mon solde,releve_compte
+plafond,deplafonnementCB
+j'ai change d'adresse email,updateProfile
+nouveau numero de telephone,updateProfile
+ma carte de credit n'est plus valide,nouveauCB_chequier
+mettre a jour mes donnees de contact,updateProfile
+quand est ce qu'on peut se rencontrer,rendez-vous
+devis multirisque habitation,conseiller
+j'aimerai rencontrer un conseiller,rendez-vous
+renouveler mon chequier,nouveauCB_chequier
+modifer mes informations personnelles,updateProfile
+j'ai besoin de mon releve de compte,releve_compte
+prelevement,virement
+prendre de l'argent sur mon compte,virement
+nouvelle CB,nouveauCB_chequier
+changement de coordonnees,updateProfile
+activer un prelevement,virement
+arreter le prelevement,virement
+virement,virement
+je vous fais part de ma nouvelle adresse,updateProfile
+etranger,deplafonnementCB
+rendez-vous,rendez-vous
+sinistre,conseiller
+est ce qu'on peut se voir?,rendez-vous
+relever le plafond,deplafonnementCB
+voici ma nouvelle adresse email,updateProfile
+ou est ce que je peux vous trouver,rendez-vous
+acceder a mon releve de compte,releve_compte
+credit immobilier,conseiller
+commander un nouveau chequier,nouveauCB_chequier
+augmenter le plafond,deplafonnementCB
+transfert,virement
+demande de pret immobilier,conseiller
+faire parvenir mon solde?,releve_compte
+ouvrir un compte,conseiller
+comment est ce que je peux obtenir un nouveau chequier,nouveauCB_chequier
+voyage,deplafonnementCB
+seuil carte bancaire,deplafonnementCB
+creneau pour nous rencontrer,rendez-vous
+j'ai demenage,updateProfile
+modifier mes informations telephoniques,updateProfile
+transferer de l'argent,virement
+modifier mon adresse,updateProfile
+releve de compte,releve_compte
+envoyer mon releve de compte,releve_compte
+agenda,rendez-vous
+voici mes nouvelles coordonnees,updateProfile
+assurance multirisque habitation,conseiller
+est ce que j'ai des sous sur mon compte,releve_compte
+envoyer une nouvelle carte,nouveauCB_chequier
+prelevement sur ce compte,virement
+proceder au deplafonnement,deplafonnementCB
+A quelle heure ouvrez vous?,rendez-vous
