@@ -1,0 +1,78 @@
+activer un beneficiaire,compte_gestion
+envoyer de l'argent,compte_gestion
+j'ai change d'adresse,updateProfile
+faire un virement,compte_gestion
+ajouter un beneficiaire,compte_gestion
+nouvelle cb,mode_paiement_gestion
+date de validite,mode_paiement_gestion
+appartement,conseiller
+RIB,compte_gestion
+augmenter le plafond,mode_paiement_gestion
+quel jour vous arrange,rendez-vous
+pin,mode_paiement_gestion
+seuil carte bancaire,mode_paiement_gestion
+mettre a jour mes donnees de contact,updateProfile
+envoyer mon releve de compte,compte_gestion
+prelevement,compte_gestion
+prendre de l'argent sur mon compte,compte_gestion
+activer un prelevement,compte_gestion
+modifer mes informations personnelles,updateProfile
+faire parvenir mon solde?,compte_gestion
+meeting,rendez-vous
+envoyer mon dernier releve,compte_gestion
+virement,compte_gestion
+rendez-vous,rendez-vous
+voici ma nouvelle adresse email,updateProfile
+transfert,compte_gestion
+renouveler mon chequier,mode_paiement_gestion
+demande de pret immobilier,conseiller
+vous voir,rendez-vous
+ouvrir un compte,conseiller
+transferer de l'argent,compte_gestion
+carte n'est plus valide,mode_paiement_gestion
+j'ai demenage,updateProfile
+plus de cheque,mode_paiement_gestion
+maison,conseiller
+nouveau chequier,mode_paiement_gestion
+A quelle heure ouvrez vous?,rendez-vous
+prelevement sur ce compte,compte_gestion
+relever le plafond,mode_paiement_gestion
+etranger,mode_paiement_gestion
+creneau,rendez-vous
+garantie bancaire,conseiller
+nouveau pret,conseiller
+nouvelle assurance,conseiller
+demande pour une multirisque habitation,conseiller
+ou est ce que je peux trouver mon RIB,compte_gestion
+changement d'adresse,updateProfile
+quelle est votre adresse,rendez-vous
+quelles sont vos offres,conseiller
+quels sont les taux d'interet,conseiller
+se rencontrer,conseiller
+j'ai change d'adresse email,updateProfile
+nouveau numero de telephone,updateProfile
+nouvelle carte,mode_paiement_gestion
+voyage,mode_paiement_gestion
+releve de compte,compte_gestion
+devis multirisque habitation,conseiller
+proceder au deplafonnement,mode_paiement_gestion
+changement de coordonnees,updateProfile
+arreter le prelevement,compte_gestion
+puce,mode_paiement_gestion
+sinistre,conseiller
+extrait de compte,compte_gestion
+credit immobilier,conseiller
+connaitre mon solde,compte_gestion
+quelle heure vous arrange,rendez-vous
+deplafonnement,mode_paiement_gestion
+relever le seuil,mode_paiement_gestion
+creneau pour nous rencontrer,rendez-vous
+j'ai besoin de mon releve de compte,compte_gestion
+plafond,mode_paiement_gestion
+modifier mes informations telephoniques,updateProfile
+agenda,rendez-vous
+voici mes nouvelles coordonnees,updateProfile
+assurance multirisque habitation,conseiller
+commander un chequier,mode_paiement_gestion
+nouvelle carte bancaire,mode_paiement_gestion
+quel est mon solde,compte_gestion

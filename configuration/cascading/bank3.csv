@@ -1,0 +1,19 @@
+renouveller mon chequier,nouveauCB_chequier
+plus eleve,deplafonnementCB
+nouvelle carte bancaire,nouveauCB_chequier
+commander un chequier,nouveauCB_chequier
+puce,nouveauCB_chequier
+augmenter le seuil,deplafonnementCB
+nouvelle carte,nouveauCB_chequier
+augmenter le plafond,deplafonnementCB
+nouveau chequier,nouveauCB_chequier
+plus de cheque,nouveauCB_chequier
+carte n'est plus valide,nouveauCB_chequier
+relever le seuil,deplafonnementCB
+deplafonnement,deplafonnementCB
+plafond,deplafonnementCB
+pin,nouveauCB_chequier
+relever le plafond,deplafonnementCB
+nouvelle cb,nouveauCB_chequier
+date de validite,nouveauCB_chequier
+proceder au deplafonnement,deplafonnementCB
