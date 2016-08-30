@@ -35,15 +35,17 @@ You need to set the Input Client node Gmail by entering credentials of the gmail
 Note that email password needs to be 8 characters minimum with letters, numbers and special characters.
 
 **NLC node**
-You have to create and train a NLC classifier by uploading the nlc-training-bank.csv file on the Watson NLC service.
+You have to create and train a NLC classifier by uploading the nlc-training-bank.csv file on the Watson NLC service in configuration/default folder.
 Don't forget to update the NLC node with the new classifierID and credentials.
 
 **Classification node**
 Classification node uses IMAP Gmail extension to move mails to the right folder. Indicate here the names of the labels you have created in the gmail incoming box.
 
 **Output email**
-This node is just to send the email to another mailbox if the email needs to be answered by the center. 
+This node is just to send the email to another mailbox if the email needs to be answered by the center.
 
 ### Test it and train Watson so it gets better!
-You can use the sample examples of emails provided in the examples of emails.txt.
+You can use the sample examples of emails provided in the examples of emails.txt in the configuration folder.
 
+### Make it even better
+In the configuration folder you will find a flow to import in node-red to enrich with tone analyzer and cascading NLCs.
